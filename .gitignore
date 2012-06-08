@@ -6,12 +6,14 @@
 *.rej
 *.swo
 *.swp
+*.zip
 *.vi
 *~
 *.sass-cache
 
 # OS or Editor folders
 .DS_Store
+._*
 Thumbs.db
 .cache
 .project
@@ -37,6 +39,7 @@ dwsync.xml
 intermediate
 publish
 .idea
+node_modules
 
 # build script local files
 build/buildinfo.properties
