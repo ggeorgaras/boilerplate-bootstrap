@@ -57,9 +57,9 @@ Anyone and everyone is welcome to [contribute](https://github.com/h5bp/html5-boi
 ### Everything else:
 
 The Unlicense (aka: public domain)
+---------------
+=================
 
-=================
-=================
 
 [Twitter Bootstrap](http://twitter.github.com/bootstrap)
 =================
