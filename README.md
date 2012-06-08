@@ -2,6 +2,8 @@
 
 A combination of HTML5Boilerplate and Twitter Bootstrap.
 
+View a [demo](http://benyarbrough.com/boilerplate-bootstrap/).
+
 
 ---------------
 =================
