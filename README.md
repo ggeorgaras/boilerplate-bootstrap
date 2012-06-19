@@ -1,5 +1,7 @@
 # [Boilerplate-Bootstrap](http://benyarbrough.com/boilerplate-bootstrap/)
 
+##**This is a fork of Ben Yarbrough's Boilerplate-Bootstrap updated to work with [ExpressionEngine](http://expressionengine.com/) and its ability to [save and serve templates as flat files](http://expressionengine.com/user_guide/templates/templates_as_files.html).
+
 A combination of HTML5Boilerplate and Twitter Bootstrap.
 
 View a [demo](http://benyarbrough.com/boilerplate-bootstrap/).
